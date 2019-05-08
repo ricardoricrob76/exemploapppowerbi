@@ -1,0 +1,18 @@
+Referências Bibliográficas.
+
+1 - Inteligência Artificial
+2 - Processamento de Linguagem Natural
+3 - Machine Learning, Deep Learning
+4 - Redes Neurais Recorrentes
+5 - Framework RASA
+4 - RASA CORE
+5 - RASA NLU
+6 - 
+
+3 - Desenvolvimento da Solução.
+   Especificar um domínio da app (Sistema Atendimento de bancos).
+   * Identificar o Personagem do boot.
+   * Prototipagem usando o BootSociety.
+   * Definir as Intentys e Entidades.
+   * Caracterizar as perguntos do tipo (FAQS).
+   * Definir os Fluxos guiados.
